@@ -6,7 +6,7 @@ All notable changes to `laravel-quick-debug` will be documented in this file.
 
 - Initial Release
 
-## V2.0.0 - 2023-04-27
+## V2.0.0 - 2023-08-05
 
 - Version Upgrade
 - Code Structure Improvement
